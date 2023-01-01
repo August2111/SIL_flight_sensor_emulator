@@ -1,3 +1,4 @@
 [submodule "sensor_data_analyzer/lib"]
 	path = sensor_data_analyzer/lib
-	url = git@github.com:larus-breeze/sw_sensor_algorithms.git
+	url = https://github.com/larus-breeze/sw_sensor_algorithms
+	branch = main
